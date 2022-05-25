@@ -298,7 +298,7 @@ public class StudentDataGui extends JFrame implements ActionListener {
         }
 
     }
-
+//Main Method
     public static void main(String[] args) {
         StudentDataGui objStudentData = new StudentDataGui();
         objStudentData.setGUI();
